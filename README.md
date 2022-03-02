@@ -9,3 +9,5 @@
 - Grado de Ingeniería Informática.
 
 - Universidad de La Laguna 
+
+Aqui le dejo el enlace al documento de él diseño centrado en el usuario: https://docs.google.com/document/d/1IiCimpnO43lct76sAcYCpZ_qZgNoAimc4LIq8LAmAaQ/edit#
